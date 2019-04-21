@@ -1,4 +1,5 @@
 Git is a version control system！
+
 Git is free software.
 
 Administrator@se7en5 MINGW64 /f/IDEA/workspace
@@ -47,3 +48,9 @@ git checkout --filename.suffix	（可以撤销修改）
 git checkout -b dev （创建并切换到分支dev）
 
 git branch （列出所有分支，当前分支带*）
+
+git merge dev (把dev分支合并到master上）
+
+git branch -d <name> (删除分支）
+
+
