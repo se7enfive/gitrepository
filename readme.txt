@@ -31,3 +31,7 @@ git reflog	（查看历史提交记录和id，时光穿梭机，过去与未来�
 git reset --hard HEAD^	（回退到上一个版本）
 
 git reset --hard id		（回退到指定版本）
+
+git diff HEAD -- filename.suffix	(查看工作区与版本库最新版的区别）
+
+Atention：每次的修改，如果不add到暂存区，是不会被commit的，只有add了的修改才会被commit！
