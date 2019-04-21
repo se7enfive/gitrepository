@@ -19,4 +19,8 @@ $ git commit -m "first commit"		（把暂存区的改动提交到本地版本库
 [master (root-commit) 87dfa82] first commit
  1 file changed, 2 insertions(+)
  create mode 100644 readme.txt
+ 
+ git diff filename.suffix	（查看修改）
+ 
+ git status	（查看库的状态）
 
