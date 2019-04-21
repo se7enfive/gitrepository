@@ -51,6 +51,10 @@ git branch （列出所有分支，当前分支带*）
 
 git merge dev (把dev分支合并到master上）
 
-git branch -d <name> (删除分支2）
+git branch -d <name> (删除分支）
+
+
+
+
 
 
