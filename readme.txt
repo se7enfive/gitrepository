@@ -23,4 +23,6 @@ $ git commit -m "first commit"		（把暂存区的改动提交到本地版本库
  git diff filename.suffix	（查看修改）
  
  git status	（查看库的状态）
+ 
+ git log	（查看提交日志记录）
 
