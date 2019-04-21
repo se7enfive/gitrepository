@@ -26,7 +26,7 @@ $ git commit -m "first commit"		（把暂存区的改动提交到本地版本库
  
  git log	（查看提交日志记录）
 
-git reflog	（查看历史提交记录和id，时光穿梭机）
+git reflog	（查看历史提交记录和id，时光穿梭机，过去与未来都能看到）
 
 git reset --hard HEAD^	（回退到上一个版本）
 
